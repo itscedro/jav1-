@@ -1,0 +1,23 @@
+A Foundation owns the 6 museums housed in Mkonzeni district. Schools nearby those 6 museums visit the museums to learn about historical figures and their contributions to development.
+
+In the museum, the companies used to send the historians in the museum explaining the contributions of those historical figures, but this method was ineffective since children would get bored and stop paying attention.
+
+The Foundation Museums would like to hire a game developer to build a game where children would learn while having fun.
+
+The game we develop will be a picture slider puzzle, where the user will get a picture with pieces scrambled and they will try to rearrange them to form one image. Our game must meet the following instructions:
+
+The puzzle will have 9 pieces and at the beginning, one tile slot will be empty.
+
+At the beginning the pieces will be arranged randomly and the sequence in which children may proceed or try again.
+
+The user can only move one piece to the empty slot.
+
+The pieces will be numbered depending on their respective slot they belong to.
+
+The game will contain 10 pictures the player can unlock by completing the puzzles.
+
+The game ends when rearranged the pieces to form a clear image across the numbering order.
+
+When the player wins the puzzle, they will get rewarded by scores and fun fact and information about that historical figure.
+
+The pieces must be equal in size.
